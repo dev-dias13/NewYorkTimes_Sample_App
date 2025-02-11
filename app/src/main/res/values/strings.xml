@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NewYorkTimes_Sample_App</string>
+    <string name="title_top_stories">Module Title</string>
 </resources>

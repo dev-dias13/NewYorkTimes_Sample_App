@@ -1,4 +1,4 @@
-package me.devdias.newyorktimes_sample_app.ui.theme
+package me.devdias.newyorktimes_sample_app.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
